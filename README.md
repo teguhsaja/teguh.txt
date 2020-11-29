@@ -1,0 +1,2 @@
+# teguh.txt
+Dari teguh
